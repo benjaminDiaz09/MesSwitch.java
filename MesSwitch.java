@@ -18,7 +18,7 @@ public class MesSwitch {
         int numeroUsuario = obtenerNumero("Ingresa un numero del 1 al 12");
 
 
-
+            // Se evalua con un switvh depende del numero del usuario
         switch (numeroUsuario) {
             case 1:
                 System.out.println("January");
